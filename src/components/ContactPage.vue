@@ -1,6 +1,5 @@
 <template>
     <div class="contact-page">
-      <h1>Contact Us</h1>
       <contact-us />
     </div>
  </template>
@@ -15,9 +14,3 @@ export default {
   }
 }
 </script>
-
-  <style scoped>
-  .contact-page {
-    padding: 20px;
-  }
-  </style>
